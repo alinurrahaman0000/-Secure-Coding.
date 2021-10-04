@@ -1,0 +1,10 @@
+.nofound {
+  height: 270px;
+  margin-top: 76px;
+}
+.nofound h1 {
+  color: brown;
+}
+.nofound h3 {
+  color: rgba(138, 30, 30, 0.884);
+}

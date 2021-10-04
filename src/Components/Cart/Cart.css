@@ -1,0 +1,17 @@
+.cart {
+  margin-top: 50px;
+}
+.imgss img {
+  width: 420px;
+  height: 200px;
+  margin-top: 105px;
+  border-radius: 10px;
+}
+.Btn {
+  margin-top: 20px;
+  background-color: teal;
+  color: antiquewhite;
+  border-radius: 6px;
+  font-weight: bold;
+  width: 104px;
+}

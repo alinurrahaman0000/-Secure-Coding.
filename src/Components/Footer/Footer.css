@@ -1,0 +1,15 @@
+.footer {
+  background-color: rgba(240, 236, 230, 0.596);
+  color: antiquewhite;
+}
+.footer a {
+  text-decoration: none;
+  color: rgb(39, 134, 212);
+}
+.under {
+  color: rgba(71, 71, 240, 0.568);
+}
+
+.letest {
+  color: black;
+}
